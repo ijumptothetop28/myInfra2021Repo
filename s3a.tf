@@ -1,5 +1,6 @@
 how to modify a remote file:
 1
+2
 git add .\s3a.tf
 git commit
 [master 359e8c5] adsfsa
