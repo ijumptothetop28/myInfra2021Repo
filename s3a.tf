@@ -7,5 +7,4 @@ git commit
 git push
 that's it
 1
-2
 3
